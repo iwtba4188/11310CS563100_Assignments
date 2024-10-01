@@ -1,0 +1,42 @@
+{
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "<TODO>",
+        "<TODO> Done",
+        "<REPORT>",
+        "<REPORT> Done",
+        "shihtl>"
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "<TODO>": {
+            "icon": "checklist",
+            "type": "tag-and-comment",
+            "gutterIcon": true
+        },
+        "<TODO> Done": {
+            "icon": "checklist",
+            "type": "tag-and-comment"
+        },
+        "<REPORT>": {
+            "icon": "repo",
+            "type": "tag-and-comment",
+            "gutterIcon": true
+        },
+        "<REPORT> Done": {
+            "icon": "repo",
+            "type": "tag-and-comment"
+        },
+        "shihtl>": {
+            "icon": "star",
+            "type": "text-and-comment",
+            "background": "#7a3d94",
+            "foreground": "#ffffff"
+        }
+    },
+}
