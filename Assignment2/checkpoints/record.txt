@@ -1,0 +1,168 @@
+[LSTM_2_1e-2]
+Train epoch 1: 100%|██████████| 37020/37020 [07:17<00:00, 84.59it/s, loss=0.952]
+Validation epoch 1: 100%|██████████| 4114/4114 [02:26<00:00, 28.18it/s, accuracy=0.0876]
+Loss when training: 0.98439621925354
+Accuracy when validation: 0.08760493827160494
+Train epoch 2: 100%|██████████| 37020/37020 [07:11<00:00, 85.76it/s, loss=0.887]
+Validation epoch 2: 100%|██████████| 4114/4114 [02:24<00:00, 28.45it/s, accuracy=0.0907]
+Loss when training: 0.952154278755188
+Accuracy when validation: 0.09066666666666667
+Train epoch 3: 100%|██████████| 37020/37020 [07:12<00:00, 85.67it/s, loss=0.937]
+Validation epoch 3: 100%|██████████| 4114/4114 [02:33<00:00, 26.75it/s, accuracy=0.0966]
+Loss when training: 0.9733392000198364
+Accuracy when validation: 0.09664197530864198
+
+[LSTM_2_1e-3]
+Train epoch 1: 100%|██████████| 37020/37020 [08:49<00:00, 69.95it/s, loss=0.304]
+Validation epoch 1: 100%|██████████| 4114/4114 [02:33<00:00, 26.79it/s, accuracy=0.594]
+Loss when training: 0.3121800720691681
+Accuracy when validation: 0.5942526115859449
+Train epoch 2: 100%|██████████| 37020/37020 [07:24<00:00, 83.23it/s, loss=0.258]
+Validation epoch 2: 100%|██████████| 4114/4114 [02:37<00:00, 26.18it/s, accuracy=0.695]
+Loss when training: 0.2483222782611847
+Accuracy when validation: 0.6952516619183285
+Train epoch 3: 100%|██████████| 37020/37020 [07:26<00:00, 82.82it/s, loss=0.191]
+Validation epoch 3: 100%|██████████| 4114/4114 [02:37<00:00, 26.19it/s, accuracy=0.729]
+Loss when training: 0.14461249113082886
+Accuracy when validation: 0.7290332383665717
+
+[LSTM_2_1e-4]
+Train epoch 1: 100%|██████████| 37020/37020 [09:12<00:00, 66.98it/s, loss=0.47] 
+Validation epoch 1: 100%|██████████| 4114/4114 [02:48<00:00, 24.46it/s, accuracy=0.47] 
+Loss when training: 0.4555274546146393
+Accuracy when validation: 0.4701766381766382
+Train epoch 2: 100%|██████████| 37020/37020 [09:18<00:00, 66.24it/s, loss=0.324]
+Validation epoch 2: 100%|██████████| 4114/4114 [02:50<00:00, 24.11it/s, accuracy=0.567]
+Loss when training: 0.3662192225456238
+Accuracy when validation: 0.5673428300094967
+Train epoch 3: 100%|██████████| 37020/37020 [09:20<00:00, 66.01it/s, loss=0.264]
+Validation epoch 3: 100%|██████████| 4114/4114 [03:01<00:00, 22.62it/s, accuracy=0.604]
+Loss when training: 0.2118891179561615
+Accuracy when validation: 0.6039316239316239
+
+[LSTM_3_1e-3]
+Train epoch 1: 100%|██████████| 37020/37020 [10:31<00:00, 58.60it/s, loss=0.283]
+Validation epoch 1: 100%|██████████| 4114/4114 [03:00<00:00, 22.84it/s, accuracy=0.613]
+Loss when training: 0.15470914542675018
+Accuracy when validation: 0.6131889838556506
+Train epoch 2: 100%|██████████| 37020/37020 [10:41<00:00, 57.74it/s, loss=0.203]
+Validation epoch 2: 100%|██████████| 4114/4114 [03:41<00:00, 18.58it/s, accuracy=0.727]
+Loss when training: 0.1839110404253006
+Accuracy when validation: 0.7272364672364673
+Train epoch 3: 100%|██████████| 37020/37020 [10:53<00:00, 56.66it/s, loss=0.142] 
+Validation epoch 3: 100%|██████████| 4114/4114 [03:05<00:00, 22.19it/s, accuracy=0.812]
+Loss when training: 0.09274302423000336
+Accuracy when validation: 0.8123798670465338
+
+[LSTM_4_1e-3]
+Train epoch 1: 100%|██████████| 37020/37020 [12:11<00:00, 50.58it/s, loss=0.249]
+Validation epoch 1: 100%|██████████| 4114/4114 [03:01<00:00, 22.63it/s, accuracy=0.648]
+Loss when training: 0.24766956269741058
+Accuracy when validation: 0.6480987654320988
+Train epoch 2: 100%|██████████| 37020/37020 [11:45<00:00, 52.50it/s, loss=0.186] 
+Validation epoch 2: 100%|██████████| 4114/4114 [03:04<00:00, 22.25it/s, accuracy=0.772]
+Loss when training: 0.2103564739227295
+Accuracy when validation: 0.7724786324786325
+Train epoch 3: 100%|██████████| 37020/37020 [11:19<00:00, 54.50it/s, loss=0.0787]
+Validation epoch 3: 100%|██████████| 4114/4114 [03:16<00:00, 20.97it/s, accuracy=0.842]
+Loss when training: 0.19400037825107574
+Accuracy when validation: 0.8418727445394112
+
+[RNN_3_1e-3]
+Train epoch 1: 100%|██████████| 37020/37020 [08:00<00:00, 77.02it/s, loss=0.879]
+Validation epoch 1: 100%|██████████| 4114/4114 [02:18<00:00, 29.66it/s, accuracy=0.117]
+Loss when training: 0.97567218542099
+Accuracy when validation: 0.11670655270655271
+Train epoch 2: 100%|██████████| 37020/37020 [07:42<00:00, 79.97it/s, loss=0.869]
+Validation epoch 2: 100%|██████████| 4114/4114 [02:16<00:00, 30.14it/s, accuracy=0.12] 
+Loss when training: 0.9022790193557739
+Accuracy when validation: 0.12018993352326686
+Train epoch 3: 100%|██████████| 37020/37020 [08:02<00:00, 76.79it/s, loss=0.918]
+Validation epoch 3: 100%|██████████| 4114/4114 [02:13<00:00, 30.75it/s, accuracy=0.106]
+Loss when training: 1.007196068763733
+Accuracy when validation: 0.10615384615384615
+
+[RNN_3_1e-2]
+Train epoch 1: 100%|██████████| 37020/37020 [07:51<00:00, 78.57it/s, loss=1.92]
+Validation epoch 1: 100%|██████████| 4114/4114 [01:52<00:00, 36.44it/s, accuracy=0.00426]
+Loss when training: 1.9980884790420532
+Accuracy when validation: 0.004262108262108262
+Train epoch 2: 100%|██████████| 37020/37020 [07:43<00:00, 79.86it/s, loss=2]   
+Validation epoch 2: 100%|██████████| 4114/4114 [01:48<00:00, 38.00it/s, accuracy=0.00342]
+Loss when training: 2.012275457382202
+Accuracy when validation: 0.003418803418803419
+Train epoch 3: 100%|██████████| 37020/37020 [07:50<00:00, 78.62it/s, loss=2.04]
+Validation epoch 3: 100%|██████████| 4114/4114 [01:47<00:00, 38.18it/s, accuracy=0.00425]
+Loss when training: 2.0562546253204346
+Accuracy when validation: 0.004246913580246914
+
+[GRU_3_1e-3]
+Train epoch 1: 100%|██████████| 37020/37020 [09:49<00:00, 62.81it/s, loss=0.295]
+Validation epoch 1: 100%|██████████| 4114/4114 [02:49<00:00, 24.29it/s, accuracy=0.501]
+Loss when training: 0.32550910115242004
+Accuracy when validation: 0.50067616334283
+Train epoch 2: 100%|██████████| 37020/37020 [10:05<00:00, 61.13it/s, loss=0.304]
+Validation epoch 2: 100%|██████████| 4114/4114 [02:46<00:00, 24.75it/s, accuracy=0.566]
+Loss when training: 0.27745330333709717
+Accuracy when validation: 0.5658879392212726
+Train epoch 3: 100%|██████████| 37020/37020 [09:47<00:00, 63.00it/s, loss=0.289]
+Validation epoch 3: 100%|██████████| 4114/4114 [02:53<00:00, 23.75it/s, accuracy=0.571]
+Loss when training: 0.32403257489204407
+Accuracy when validation: 0.5705299145299145
+
+[LSTM_3_1e-3_no_id_16]
+Train epoch 1: 100%|██████████| 37020/37020 [08:53<00:00, 69.37it/s, loss=0.255]
+Validation epoch 1: 100%|██████████| 4114/4114 [01:53<00:00, 36.18it/s, accuracy=0.618]
+Loss when training: 0.24611683189868927
+Accuracy when validation: 0.6178997465850794
+Train epoch 2: 100%|██████████| 37020/37020 [09:10<00:00, 67.30it/s, loss=0.21] 
+Validation epoch 2: 100%|██████████| 4114/4114 [01:52<00:00, 36.65it/s, accuracy=0.701]
+Loss when training: 0.23709778487682343
+Accuracy when validation: 0.7013906916373076
+Train epoch 3: 100%|██████████| 37020/37020 [08:28<00:00, 72.82it/s, loss=0.202] 
+Validation epoch 3: 100%|██████████| 4114/4114 [01:56<00:00, 35.42it/s, accuracy=0.748]
+Loss when training: 0.14100532233715057
+Accuracy when validation: 0.7482539093887137
+
+Validate testcases contain "9" before "=":
+100%|██████████| 263250/263250 [09:31<00:00, 460.65it/s]
+739 / 71296
+Accuracy when validation: 0.01036523788150808
+
+Excluding 9 in training
+100%|██████████| 263250/263250 [45:57<00:00, 95.48it/s, matched_9=739, matched_no_9=121069, total_9=101460, total_no_9=161790]
+No 9 Accuracy when validation: 0.7483095370542061
+9 Accuracy when validation: 0.007283658584663907
+
+Including 9 in training
+100%|██████████| 263250/263250 [45:28<00:00, 96.49it/s, matched_9=76964, matched_no_9=136879, total_9=101460, total_no_9=161790]
+No 9 Accuracy when validation: 0.8460288027690216
+9 Accuracy when validation: 0.7585649517051054
+
+[LSTM_3_1e-3_vocab_by_freq_increasing]
+Train epoch 1: 100%|██████████| 37020/37020 [08:46<00:00, 70.36it/s, loss=0.246]
+Validation epoch 1: 100%|██████████| 4114/4114 [03:08<00:00, 21.82it/s, accuracy=0.61] 
+Loss when training: 0.1379280388355255
+Accuracy when validation: 0.609994301994302
+Train epoch 2: 100%|██████████| 37020/37020 [08:31<00:00, 72.32it/s, loss=0.202]
+Validation epoch 2: 100%|██████████| 4114/4114 [03:04<00:00, 22.24it/s, accuracy=0.708]
+Loss when training: 0.19201959669589996
+Accuracy when validation: 0.7083722697056031
+Train epoch 3: 100%|██████████| 37020/37020 [08:34<00:00, 72.01it/s, loss=0.196] 
+Validation epoch 3: 100%|██████████| 4114/4114 [03:06<00:00, 22.12it/s, accuracy=0.778]
+Loss when training: 0.12319555878639221
+Accuracy when validation: 0.778412155745489
+
+[LSTM_3_1e-3_vocab_by_freq_descending]
+Train epoch 1: 100%|██████████| 37020/37020 [09:02<00:00, 68.19it/s, loss=0.253]
+Validation epoch 1: 100%|██████████| 4114/4114 [02:55<00:00, 23.40it/s, accuracy=0.625]
+Loss when training: 0.15792115032672882
+Accuracy when validation: 0.6245052231718898
+Train epoch 2: 100%|██████████| 37020/37020 [09:58<00:00, 61.85it/s, loss=0.181]
+Validation epoch 2: 100%|██████████| 4114/4114 [03:08<00:00, 21.79it/s, accuracy=0.701]
+Loss when training: 0.26145288348197937
+Accuracy when validation: 0.7012117758784425
+Train epoch 3: 100%|██████████| 37020/37020 [10:34<00:00, 58.37it/s, loss=0.247]
+Validation epoch 3: 100%|██████████| 4114/4114 [02:54<00:00, 23.56it/s, accuracy=0.747]
+Loss when training: 0.15215016901493073
+Accuracy when validation: 0.7469059829059829
