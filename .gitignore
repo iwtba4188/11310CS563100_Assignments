@@ -1,3 +1,9 @@
+cache/
+saved_models/
+models/
+model/
+tmp_*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
